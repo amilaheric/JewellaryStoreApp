@@ -41,5 +41,10 @@ CHECKOUT PAGE
 
 ![Screenshot_4](https://user-images.githubusercontent.com/91912760/199604197-a3882720-9d12-45f3-9108-4914ce723655.png)
 
+SEARCH RESULT
+![Screenshot_5](https://user-images.githubusercontent.com/91912760/199604596-ab7ac024-bc70-4ce6-8181-ac495f887c03.png)
+
+
+
 
 
